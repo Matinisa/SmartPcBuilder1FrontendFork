@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "AMD Ryzen 7 7800X3D",
+    "brand": "AMD",
+    "category": "CPU",
+    "price": 6999,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1510557880182-3a935d5f41f4?auto=format&fit=crop&w=900&q=80",
+    "description": "High-performance AMD processor with 8 cores and 16 threads for gaming and content creation.",
+    "specifications": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "memory": "DDR5"
+    }
+  },
+  {
+    "id": 2,
+    "name": "ASUS TUF Gaming B650",
+    "brand": "ASUS",
+    "category": "Motherboard",
+    "price": 3499,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1524499982521-1ffd58dd89ea?auto=format&fit=crop&w=900&q=80",
+    "description": "Durable AM5 motherboard with DDR5 support, PCIe 5.0, and robust power delivery.",
+    "specifications": {
+      "socket": "AM5",
+      "memory": "DDR5",
+      "formFactor": "ATX"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Corsair Vengeance 32GB DDR5",
+    "brand": "Corsair",
+    "category": "RAM",
+    "price": 1899,
+    "stock": 22,
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=900&q=80",
+    "description": "High-speed DDR5 memory kit built for gaming rigs and multitasking performance.",
+    "specifications": {
+      "memory": "DDR5",
+      "capacity": "32GB",
+      "speed": "5600MHz"
+    }
+  },
+  {
+    "id": 4,
+    "name": "NVIDIA GeForce RTX 4070",
+    "brand": "NVIDIA",
+    "category": "GPU",
+    "price": 12999,
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=900&q=80",
+    "description": "Next-gen graphics card delivering exceptional frame rates and real-time ray tracing.",
+    "specifications": {
+      "memory": "12GB GDDR6",
+      "power": "200W",
+      "interface": "PCIe 4.0"
+    }
+  }
+]

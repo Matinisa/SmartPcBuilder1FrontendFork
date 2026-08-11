@@ -1,0 +1,22 @@
+[
+  {
+    "id": 11234,
+    "date": "2026-08-05",
+    "status": "Delivered",
+    "total": 12492,
+    "items": [
+      { "productId": 1, "name": "AMD Ryzen 7 7800X3D", "quantity": 1, "price": 6999 },
+      { "productId": 3, "name": "Corsair Vengeance 32GB DDR5", "quantity": 1, "price": 1899 }
+    ]
+  },
+  {
+    "id": 11233,
+    "date": "2026-08-01",
+    "status": "Processing",
+    "total": 8150,
+    "items": [
+      { "productId": 2, "name": "ASUS TUF Gaming B650", "quantity": 1, "price": 3499 },
+      { "productId": 4, "name": "NVIDIA GeForce RTX 4070", "quantity": 1, "price": 12999 }
+    ]
+  }
+]
